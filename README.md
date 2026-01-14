@@ -91,7 +91,7 @@ For the best glassmorphism effects:
 
 ## 📖 Documentation
 
-For comprehensive documentation, visit our [GitHub repository](https://github.com/rheehose/grandlight).
+For comprehensive documentation, visit our [GitHub repository](https://github.com/hslcrb/grandlight).
 
 ## 🛠️ Requirements
 
@@ -118,8 +118,8 @@ Special thanks to the design community for inspiring the glassmorphism trend and
 
 ## 📮 Contact
 
-- GitHub: [@rheehose](https://github.com/rheehose)
-- Issues: [Report a bug](https://github.com/rheehose/grandlight/issues)
+- GitHub: [@hslcrb](https://github.com/hslcrb)
+- Issues: [Report a bug](https://github.com/hslcrb/grandlight/issues)
 
 ---
 

@@ -44,10 +44,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/rheehose/grandlight"
-Documentation = "https://github.com/rheehose/grandlight#readme"
-Repository = "https://github.com/rheehose/grandlight"
-"Bug Tracker" = "https://github.com/rheehose/grandlight/issues"
+Homepage = "https://github.com/hslcrb/grandlight"
+Documentation = "https://github.com/hslcrb/grandlight#readme"
+Repository = "https://github.com/hslcrb/grandlight"
+"Bug Tracker" = "https://github.com/hslcrb/grandlight/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

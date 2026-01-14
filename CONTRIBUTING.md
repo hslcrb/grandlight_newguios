@@ -36,7 +36,7 @@ By participating in this project, you agree to maintain a respectful and inclusi
 
 1. **Fork the repository**
    ```bash
-   # Visit https://github.com/rheehose/grandlight and click "Fork"
+   # Visit https://github.com/hslcrb/grandlight and click "Fork"
    ```
 
 2. **Clone your fork**
@@ -312,7 +312,7 @@ when opacity values were very low.
 
 If you have questions or need help:
 
-- **GitHub Issues**: [Ask a question](https://github.com/rheehose/grandlight/issues)
+- **GitHub Issues**: [Ask a question](https://github.com/hslcrb/grandlight/issues)
 - **Discussions**: Use GitHub Discussions for general questions
 
 ## Recognition
