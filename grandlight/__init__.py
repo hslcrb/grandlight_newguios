@@ -13,22 +13,34 @@ __author__ = "Rheehose (Rhee Creative)"
 __license__ = "MIT"
 __copyright__ = "Copyright (c) 2008-2026 Rheehose (Rhee Creative)"
 
-# Core components will be imported here as they are developed
-# from .window import Window
-# from .components import GlassPanel, GlassButton, GlassLabel, GlassInput
-# from .effects import GlassEffect, BlurEffect
+# Core imports
+from .core import Component, Container, Position, Size, Rect, Event, EventType
+from .effects import GlassEffect, GlassTheme
+from .window import Window
+from .components import GlassPanel, GlassButton, GlassLabel, GlassInput
 
 __all__ = [
+    # Metadata
     "__version__",
     "__author__",
     "__license__",
     "__copyright__",
-    # Component exports will be added as they are developed
-    # "Window",
-    # "GlassPanel",
-    # "GlassButton",
-    # "GlassLabel",
-    # "GlassInput",
-    # "GlassEffect",
-    # "BlurEffect",
+    # Core classes
+    "Component",
+    "Container",
+    "Position",
+    "Size",
+    "Rect",
+    "Event",
+    "EventType",
+    # Effects
+    "GlassEffect",
+    "GlassTheme",
+    # Main window
+    "Window",
+    # Components
+    "GlassPanel",
+    "GlassButton",
+    "GlassLabel",
+    "GlassInput",
 ]
