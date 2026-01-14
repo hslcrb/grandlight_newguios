@@ -126,7 +126,7 @@ class Window(Container):
         print(f"╔{'═' * 60}╗")
         print(f"║ {self.title:^58} ║")
         print(f"╠{'═' * 60}╣")
-        print("║ GrandLight v0.1.0 - Glassmorphism GUI Library            ║")
+        print("║ GrandLight v0.1.1 - Glassmorphism GUI Library            ║")
         w_str = f"Window: {self.size.width}x{self.size.height} @ {self.fps} FPS"
         print(f"║ {w_str}{' ' * (58 - len(w_str))}║")
         print(f"╚{'═' * 60}╝")

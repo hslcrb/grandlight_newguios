@@ -8,7 +8,7 @@ Copyright (c) 2008-2026 Rheehose (Rhee Creative)
 Licensed under the MIT License
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "Rheehose (Rhee Creative)"
 __license__ = "MIT"
 __copyright__ = "Copyright (c) 2008-2026 Rheehose (Rhee Creative)"

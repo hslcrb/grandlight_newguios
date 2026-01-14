@@ -182,6 +182,8 @@ pytest --cov=grandlight --cov-report=html tests/
 
 ## 📝 Version History
 
+- **v0.1.1** (2026-01-15)
+  - Updated GitHub links and profile handle
 - **v0.1.0** (2026-01-15)
   - Initial release
   - GlassEffect dataclass
